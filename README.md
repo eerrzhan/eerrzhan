@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raniia</h1>
+<h1 align="center">Hi 👋, I'm Erzhan</h1>
 <h3 align="center">A passionate Computer Engineering student at Vistula University and 42 Warsaw</h3>
 
 - 🌱 I’m currently learning **C/C++, Python**
